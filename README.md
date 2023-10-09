@@ -101,10 +101,8 @@
 ## 피드백
 * 헬멧을 AWS에서 지원하는 PPE (개인 보호 장비) 디텍션을 1차적으로 거치고, 이후에 개별 모델링으로 보완하여 mAP를 향상시키는 방안
 
-
 </br></br>
-## 참고한 레퍼런스
-
+## 참고한 레퍼런스  
 * https://deep-learning-study.tistory.com/568  
 * https://csm-kr.tistory.com/11  
 * https://bitcodic.tistory.com/104?category=746696  
