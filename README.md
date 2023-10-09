@@ -1,5 +1,4 @@
-# YOLO v5 Object Detection
-* `딥러닝` `객체인식` `YOLO` `roboflow` `python`  
+# YOLO v5 Object Detection  
 * 전동 킥보드 대여 앱(Gxxxxx) 연계 아이디어 - 헬멧 미착용자 감지 시스템
 * Overview  
 <img width="1169" alt="스크린샷 2023-10-09 오후 1 44 14" src="https://github.com/Seohee-Kim/Yolov5-ObjectDetection/assets/62201733/5372e630-504f-44cf-9798-8fa66f569c07"> </br></br>
