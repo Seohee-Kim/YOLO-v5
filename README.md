@@ -1,7 +1,7 @@
 # YOLO v5 Object Detection  
-* 전동 킥보드 대여 앱(Gxxxxx) 연계 아이디어 - 헬멧 미착용자 감지 시스템
-  
-* Overview  
+* 전동 킥보드 대여 앱(Gxxxxx) 연계 아이디어
+* YOLOv5를 활용한 킥보드 헬멧 미착용자 감지 시스템  
+* Overview(예정)  
 <img> </br></br>
 
 ## Summary  
